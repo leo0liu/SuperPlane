@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: e2f5ce5678a9fd8408707f94ba631240
+timeCreated: 1495159118
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ic_bullet_0
+    21300002: ic_bullet_1
+    21300004: ic_bullet_2
+    21300006: ic_bullet_3
+    21300008: ic_bullet_4
+    21300010: ic_bullet_5
+    21300012: ic_bullet_6
+    21300014: ic_bullet_7
+    21300016: ic_bullet_8
+    21300018: ic_bullet_9
+    21300020: ic_bullet_10
+    21300022: ic_bullet_11
+    21300024: ic_bullet_12
+    21300026: ic_bullet_13
+    21300028: ic_bullet_14
+    21300030: ic_bullet_15
+    21300032: ic_bullet_16
+    21300034: ic_bullet_17
+    21300036: ic_bullet_18
+    21300038: ic_bullet_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ic_bullet_0
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 63
+        width: 17
+        height: 324
+      alignment: 9
+      pivot: {x: 0.54067457, y: 0.4978659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ic_bullet_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 64
+        width: 18
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ic_bullet_2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 387
+        width: 57
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ic_bullet_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 813
+        width: 25
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ic_bullet_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 983
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 982
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 983
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_7
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 983
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 903
+        width: 17
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 908
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 911
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 931
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 258
+        width: 33
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_13
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 900
+        width: 15
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 605
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_15
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 983
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_16
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 929
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_17
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 824
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 258
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ic_bullet_19
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 900
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
